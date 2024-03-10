@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "henlo-tea": "^1.0.3",
+    "metafi-data": "^1.0.0"
+  },
+  "name": "infinitea",
+  "description": "",
+  "version": "1.0.0",
+  "main": "check.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
